@@ -1,0 +1,13 @@
+num1 = int(input("First integer: "))
+num2 = int(input("Second integer: "))
+print(f'{num1} + {num2} = {num1 + num2}')
+print(f'{num1} - {num2} = {num1 - num2}')
+print(f'{num1} / {num2} = {num1 // num2}')
+print(f'{num1} * {num2} = {num1 * num2}')
+
+dec1 = float(input("First decimal: "))
+dec2 = float(input("Second decimal: "))
+print(f'{dec1} + {dec2} = {dec1 + dec2}')
+print(f'{dec1} - {dec2} = {dec1 - dec2}')
+print(f'{dec1} / {dec2} = {dec1 / dec2}')
+print(f'{dec1} * {dec2} = {dec1 * dec2}')
